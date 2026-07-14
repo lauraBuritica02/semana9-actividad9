@@ -1,0 +1,20 @@
+-Sistema operativo
+R//Es el software que administra los recursos del computador y permite 
+ejecutar programas, tambien gestiona el acceso al hardware y al sistema.
+
+-Node.js
+R//Es un entorno de ejecucion que permite correr codigo JavaScript fuera
+del navegador, se utiliza para crear aplicaciones y servidores.
+
+-Aplicacion server.js
+R//Es el archivo principal que contiene la configuracion y el codigo del
+servidor. Al ejecutarlo, inicia la aplicacion y permite atender solicitudes.
+
+-Puerto
+R//Es un punto de comunicacion que permite al servidor recibir conexiones
+de los clientes. Cada aplicacion utiliza un numero de puerto para identificar
+su servicio.
+
+-Logs
+R//Son registros de eventos y actividades del servidor. Ayudan a monitorear
+el funcionamiento e identificar errores o problemas.

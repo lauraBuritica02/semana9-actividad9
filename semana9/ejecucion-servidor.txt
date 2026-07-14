@@ -1,0 +1,14 @@
+- Cuando se ejecuta en la terminal 
+node server.js
+Node.js inicia la aplicacion, ejecuta el archivo server.js y pone en 
+funcionamiento el servidor para que pueda recibir y responder solicitudes 
+de los usuarios en el puerto configurado.
+
+-El mensaje que aparece en la terminal es:
+Servidor ejecutandose en puerto 3000
+
+-Cuando visito la ruta /estado, el servidor me responde con un mensaje en 
+formato JSON que indica que la API esta funcionando correctamente y 
+muestra informacion basica sobre el servicio.
+
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
